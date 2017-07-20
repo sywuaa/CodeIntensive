@@ -51,7 +51,6 @@ Alternatively, user can use the documents in the `lib` folder by running `webpac
   * [`on`](#on)  
   * [`off`](#off)  
 
-[`$s.extend`](#sextend)
 [`$s.ajax`](#sajax)  
 
 ---
